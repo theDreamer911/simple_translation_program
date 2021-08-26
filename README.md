@@ -14,6 +14,10 @@ Then just run the python code
 python simple_translation_program.py
 ```
 
-Preview
+### Preview
 
 ![preview](translation_program.gif)
+
+### Medium
+
+[Article](https://python.plainenglish.io/build-a-simple-language-translation-program-using-python-60b22b492a94)
